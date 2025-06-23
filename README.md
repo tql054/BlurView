@@ -75,7 +75,7 @@ private BlurAlgorithm getBlurAlgorithm() {
 This fork is not published yet. You can include it manually or host via JitPack if needed.
 
 ```groovy
-implementation 'com.github.tual:BlurView:<tag>'
+implementation 'com.github.tql054:BlurView:<tag>'
 ```
 
 > Replace `<tag>` with the Git tag you release (e.g., `v1.0.0`).\
