@@ -78,9 +78,7 @@ This fork is not published yet. You can include it manually or host via JitPack 
 implementation 'com.github.tql054:BlurView:<tag>'
 ```
 
-> Replace `<tag>` with the Git tag you release (e.g., `v1.0.0`).\
-> Make sure your repo is public and tagged properly.
-
+> Replace `<tag>` with the Git tag released (e.g., `v1.0.0`).\
 ---
 
 ## 📝 License
