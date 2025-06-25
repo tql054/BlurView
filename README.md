@@ -1,5 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
 # BlurView (Forked Version)
 
 > ⚠️ This is a **fork** of [Dimezis/BlurView](https://github.com/Dimezis/BlurView), originally created and maintained by **Dmytro Saviuk**.\
